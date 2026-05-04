@@ -1,0 +1,442 @@
+[
+  {
+    "id": 1,
+    "category": "AIS Concepts",
+    "difficulty": "Easy",
+    "questionType": "Multiple Choice",
+    "question": "An accounting information system (AIS) is best defined as:",
+    "options": [
+      "A software used exclusively by external auditors.",
+      "A system that records, processes, summarizes, reports, and communicates business transactions.",
+      "A database solely used for tracking employee performance.",
+      "An algorithm to predict stock market fluctuations."
+    ],
+    "correctAnswer": "A system that records, processes, summarizes, reports, and communicates business transactions.",
+    "explanation": "An AIS serves to provide financial and nonfinancial information to facilitate decision making and internal controls."
+  },
+  {
+    "id": 2,
+    "category": "AIS Concepts",
+    "difficulty": "Easy",
+    "questionType": "Multiple Choice",
+    "question": "Starbucks using a point-of-sale terminal to record a sale and then querying that data to make business decisions is an example of:",
+    "options": [
+      "An accounting manual",
+      "An information technology storage device",
+      "A simple information system",
+      "Financial Reporting System (FRS)"
+    ],
+    "correctAnswer": "A simple information system",
+    "explanation": "Processing and querying input data to produce a report for management use describes an information system in action."
+  },
+  {
+    "id": 3,
+    "category": "AIS Concepts",
+    "difficulty": "Medium",
+    "questionType": "Multiple Choice",
+    "question": "Which of the following are the two main attributes of useful information?",
+    "options": [
+      "Timeliness and Cost-effectiveness",
+      "Relevance and Faithful representation",
+      "Completeness and Understandability",
+      "Verifiability and Comparability"
+    ],
+    "correctAnswer": "Relevance and Faithful representation",
+    "explanation": "These are the two primary qualitative characteristics that make accounting information useful."
+  },
+  {
+    "id": 4,
+    "category": "AIS Concepts",
+    "difficulty": "Medium",
+    "questionType": "Multiple Choice",
+    "question": "Relevance as an attribute of information includes which of the following characteristics?",
+    "options": [
+      "Neutrality",
+      "Predictive value",
+      "Free from error",
+      "Completeness"
+    ],
+    "correctAnswer": "Predictive value",
+    "explanation": "Relevance includes predictive value, confirmatory (feedback) value, and materiality."
+  },
+  {
+    "id": 5,
+    "category": "AIS Concepts",
+    "difficulty": "Hard",
+    "questionType": "Multiple Choice",
+    "question": "A 10-Q submission to the Securities and Exchange Commission is an example of which type of information?",
+    "options": [
+      "Discretionary information",
+      "Mandatory information",
+      "Internal information",
+      "Ad-hoc information"
+    ],
+    "correctAnswer": "Mandatory information",
+    "explanation": "Mandatory information is required by law or regulation, whereas discretionary information is produced for internal management purposes."
+  },
+  {
+    "id": 6,
+    "category": "Accountant Roles",
+    "difficulty": "Medium",
+    "questionType": "Multiple Choice",
+    "question": "When an accountant tests internal controls to comply with the Sarbanes-Oxley (SOX) Act, they are acting in which role?",
+    "options": [
+      "User",
+      "Manager",
+      "Designer",
+      "Evaluator"
+    ],
+    "correctAnswer": "Evaluator",
+    "explanation": "An evaluator checks the system for effectiveness, compliance, and internal controls (e.g., IT auditors)."
+  },
+  {
+    "id": 7,
+    "category": "Value Chain",
+    "difficulty": "Medium",
+    "questionType": "Multiple Choice",
+    "question": "Which of the following activities is classified as a primary activity in the value chain?",
+    "options": [
+      "Procurement",
+      "Human Resource Management",
+      "Operations",
+      "Technology"
+    ],
+    "correctAnswer": "Operations",
+    "explanation": "Operations transform inputs into finished goods and services. Procurement, HR, and technology are support activities."
+  },
+  {
+    "id": 8,
+    "category": "Enterprise Systems",
+    "difficulty": "Medium",
+    "questionType": "Multiple Choice",
+    "question": "Which enterprise system provides information regarding revenues to help assess profitability at a detailed customer, product, and company level?",
+    "options": [
+      "Customer Relationship Management (CRM)",
+      "Supply Chain Management System (SCMS)",
+      "Financial Reporting System (FRS)",
+      "Human Resource Management System (HRMS)"
+    ],
+    "correctAnswer": "Customer Relationship Management (CRM)",
+    "explanation": "CRM systems manage customer interactions and track revenues to help analyze value creation."
+  },
+  {
+    "id": 9,
+    "category": "Enterprise Systems",
+    "difficulty": "Hard",
+    "questionType": "Multiple Choice",
+    "question": "Which system contributes information on direct labor to a cost accounting system?",
+    "options": [
+      "Customer Relationship Management (CRM)",
+      "Manufacturing System (MS)",
+      "Human Resource Management System (HRMS)",
+      "Financial Reporting System (FRS)"
+    ],
+    "correctAnswer": "Human Resource Management System (HRMS)",
+    "explanation": "The HRMS tracks employee data and interacts with the cost accounting system for labor costs."
+  },
+  {
+    "id": 10,
+    "category": "Enterprise Systems",
+    "difficulty": "Medium",
+    "questionType": "Multiple Choice",
+    "question": "How does a well-designed AIS affect the 'Less: Selling, General, and Administrative Expenses' line on the income statement?",
+    "options": [
+      "Increases it due to high software licensing costs.",
+      "Lowers it by making support processes more efficient.",
+      "Has no effect.",
+      "Replaces the expenses entirely."
+    ],
+    "correctAnswer": "Lowers it by making support processes more efficient.",
+    "explanation": "An efficient enterprise system lowers the costs of administrative and support processes."
+  },
+  {
+    "id": 11,
+    "category": "Documentation",
+    "difficulty": "Medium",
+    "questionType": "Multiple Choice",
+    "question": "What does documentation compliance assess?",
+    "options": [
+      "If the outputs are obtained as expected.",
+      "If outputs can be produced with fewer inputs.",
+      "If the process complies with constantly changing laws and regulations.",
+      "If controls are working properly."
+    ],
+    "correctAnswer": "If the process complies with constantly changing laws and regulations.",
+    "explanation": "Compliance relates to laws and regulations, efficiency to inputs, and effectiveness to expected outputs."
+  },
+  {
+    "id": 12,
+    "category": "BPMN Modeling",
+    "difficulty": "Medium",
+    "questionType": "Multiple Choice",
+    "question": "In BPMN, participants in a process are identified using:",
+    "options": [
+      "Gateways",
+      "Sequence flows",
+      "Pools",
+      "Data objects"
+    ],
+    "correctAnswer": "Pools",
+    "explanation": "Pools identify different organizations or participants, while lanes identify specific departments within a pool."
+  },
+  {
+    "id": 13,
+    "category": "BPMN Modeling",
+    "difficulty": "Medium",
+    "questionType": "Multiple Choice",
+    "question": "Which type of gateway allows only one path to be taken out of the gateway per instance of a process?",
+    "options": [
+      "Inclusive gateway",
+      "Parallel gateway",
+      "Exclusive gateway",
+      "Complex gateway"
+    ],
+    "correctAnswer": "Exclusive gateway",
+    "explanation": "An exclusive gateway branches the path and allows only one path to be taken."
+  },
+  {
+    "id": 14,
+    "category": "BPMN Modeling",
+    "difficulty": "Hard",
+    "questionType": "Multiple Choice",
+    "question": "Which of the following is true regarding a start message event in BPMN?",
+    "options": [
+      "It is a throwing event only.",
+      "It is a catching event.",
+      "It is used to delay a process flow.",
+      "It allows sending and receiving messages simultaneously."
+    ],
+    "correctAnswer": "It is a catching event.",
+    "explanation": "A start message event acts as a catching event because it is triggered by an incoming message, such as a sales order."
+  },
+  {
+    "id": 15,
+    "category": "BPMN Modeling",
+    "difficulty": "Medium",
+    "questionType": "Multiple Choice",
+    "question": "In BPMN, a data object represents data that:",
+    "options": [
+      "Is available across all processes and databases.",
+      "Only exists for the duration of the process.",
+      "Is used as an external actor boundary.",
+      "Is used to split or merge process flows."
+    ],
+    "correctAnswer": "Only exists for the duration of the process.",
+    "explanation": "A data object represents an input or output that is available for the duration of the process, unlike a datastore."
+  },
+  {
+    "id": 16,
+    "category": "BPMN Modeling",
+    "difficulty": "Medium",
+    "questionType": "Multiple Choice",
+    "question": "Which of the following is not a step in preparing business process models?",
+    "options": [
+      "Define the model context",
+      "Define activities in the process",
+      "Review the BPMN standards",
+      "Validate with stakeholders"
+    ],
+    "correctAnswer": "Review the BPMN standards",
+    "explanation": "Reviewing standard notation is not one of the six formal steps to prepare a business process model."
+  },
+  {
+    "id": 17,
+    "category": "UML and Structure Models",
+    "difficulty": "Medium",
+    "questionType": "Multiple Choice",
+    "question": "What is the primary purpose of a structure model in a database system?",
+    "options": [
+      "To describe the sequential flow and control logic of activities.",
+      "To create a blueprint for the development of a relational database.",
+      "To identify decision requirements and processes.",
+      "To manage and control the execution of message flows."
+    ],
+    "correctAnswer": "To create a blueprint for the development of a relational database.",
+    "explanation": "Structure models (like UML class diagrams) create a blueprint for a relational database."
+  },
+  {
+    "id": 18,
+    "category": "UML and Structure Models",
+    "difficulty": "Medium",
+    "questionType": "Multiple Choice",
+    "question": "Which Unified Modeling Language (UML) diagram type shows what a system does?",
+    "options": [
+      "Structure diagrams",
+      "Interaction diagrams",
+      "Behavior diagrams",
+      "Class diagrams"
+    ],
+    "correctAnswer": "Behavior diagrams",
+    "explanation": "Behavior diagrams show what the system does, whereas structure diagrams show what it is made of."
+  },
+  {
+    "id": 19,
+    "category": "UML and Structure Models",
+    "difficulty": "Hard",
+    "questionType": "Multiple Choice",
+    "question": "When building a UML class diagram, a multiplicity of '0..*' indicates:",
+    "options": [
+      "Exactly one instance.",
+      "A minimum of one instance and a maximum of many.",
+      "A minimum of zero instances and a maximum of many.",
+      "Exactly many instances."
+    ],
+    "correctAnswer": "A minimum of zero instances and a maximum of many.",
+    "explanation": "The asterisk denotes 'many', and the first number indicates the minimum allowed."
+  },
+  {
+    "id": 20,
+    "category": "UML and Structure Models",
+    "difficulty": "Medium",
+    "questionType": "Multiple Choice",
+    "question": "Which attribute should not be used as a primary key?",
+    "options": [
+      "A sequential customer number",
+      "A generated invoice number",
+      "A person's full name",
+      "An employee ID number"
+    ],
+    "correctAnswer": "A person's full name",
+    "explanation": "Names are not unique and can change, making them poor choices for primary keys."
+  },
+  {
+    "id": 21,
+    "category": "UML and Structure Models",
+    "difficulty": "Hard",
+    "questionType": "Multiple Choice",
+    "question": "What attribute type connects a table to the primary key of another table in a relational database?",
+    "options": [
+      "Generalization Key",
+      "Composite Key",
+      "Primary Key",
+      "Foreign Key"
+    ],
+    "correctAnswer": "Foreign Key",
+    "explanation": "Foreign keys are used to implement associations between tables."
+  },
+  {
+    "id": 22,
+    "category": "UML and Structure Models",
+    "difficulty": "Medium",
+    "questionType": "Multiple Choice",
+    "question": "Which special notation describes a relationship where an object can exist separately (e.g., players on a team)?",
+    "options": [
+      "Aggregation",
+      "Generalization",
+      "Composition",
+      "Association"
+    ],
+    "correctAnswer": "Aggregation",
+    "explanation": "Aggregation represents relationships where parts can exist independently of the whole."
+  },
+  {
+    "id": 23,
+    "category": "Database Implementation",
+    "difficulty": "Hard",
+    "questionType": "Multiple Choice",
+    "question": "When implementing a database from a class diagram, what is required to implement a many-to-many relationship?",
+    "options": [
+      "Include a foreign key in both classes.",
+      "Change the multiplicities to 1..1.",
+      "Create a new table to link them.",
+      "Combine them into a single class."
+    ],
+    "correctAnswer": "Create a new table to link them.",
+    "explanation": "Many-to-many relationships require a new linking table in a relational database."
+  },
+  {
+    "id": 24,
+    "category": "AIS Concepts",
+    "difficulty": "Easy",
+    "questionType": "True/False",
+    "question": "Data organized in a way that is meaningful to the user is defined as information.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": "True",
+    "explanation": "Data is processed with context to become useful information."
+  },
+  {
+    "id": 25,
+    "category": "AIS Concepts",
+    "difficulty": "Medium",
+    "questionType": "True/False",
+    "question": "Information overload occurs when an individual receives too little information to make a decision.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": "False",
+    "explanation": "Information overload occurs due to a surplus of information."
+  },
+  {
+    "id": 26,
+    "category": "Enterprise Systems",
+    "difficulty": "Medium",
+    "questionType": "True/False",
+    "question": "A Customer Relationship Management (CRM) system includes information regarding current employee records.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": "False",
+    "explanation": "A CRM system tracks clients and sales, whereas employee records are kept in an HRMS."
+  },
+  {
+    "id": 27,
+    "category": "BPMN Modeling",
+    "difficulty": "Medium",
+    "questionType": "True/False",
+    "question": "In BPMN, a sequence flow can connect across pools in a diagram.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": "False",
+    "explanation": "Sequence flows cannot cross from one pool to another; message flows are used between pools."
+  },
+  {
+    "id": 28,
+    "category": "UML and Structure Models",
+    "difficulty": "Hard",
+    "questionType": "True/False",
+    "question": "A primary key can be left NULL (blank) in a relational database.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": "False",
+    "explanation": "A primary key must contain a value to uniquely identify a record."
+  },
+  {
+    "id": 29,
+    "category": "AIS Concepts",
+    "difficulty": "Medium",
+    "questionType": "Multiple Choice",
+    "question": "What is the correct transformation sequence of the information value chain?",
+    "options": [
+      "Information ➞ Decision ➞ Knowledge ➞ Data",
+      "Data ➞ Information ➞ Knowledge ➞ Decision",
+      "Decision ➞ Knowledge ➞ Data ➞ Information",
+      "Data ➞ Knowledge ➞ Information ➞ Decision"
+    ],
+    "correctAnswer": "Data ➞ Information ➞ Knowledge ➞ Decision",
+    "explanation": "The value chain describes data transformation into information, then knowledge, and ultimately to decisions."
+  },
+  {
+    "id": 30,
+    "category": "Accountant Roles",
+    "difficulty": "Medium",
+    "questionType": "Multiple Choice",
+    "question": "Accountants are considered to be which of the following when they coordinate, organize, staff, direct, and lead an information system?",
+    "options": [
+      "User",
+      "Manager",
+      "Designer",
+      "Evaluator"
+    ],
+    "correctAnswer": "Manager",
+    "explanation": "As a manager of an AIS (e.g., CFO or controller), the accountant coordinates and controls the system."
+  }
+]
